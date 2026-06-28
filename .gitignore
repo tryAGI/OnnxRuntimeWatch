@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+DerivedData/
+third_party/onnxruntime/work/
+vendor/
+*.xcframework
+*.xcframework.zip
